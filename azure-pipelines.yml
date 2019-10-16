@@ -15,7 +15,7 @@ variables:
   webAppName: 'test-howoldisit'
   
   # Environment name
-  environmentName: ''
+  environmentName: 'Linux'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
