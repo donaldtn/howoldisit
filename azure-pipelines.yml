@@ -12,7 +12,7 @@ variables:
   azureSubscription: '8f27bc28-7d96-4721-a881-711afdb4b60b'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'test-howoldisit'
   
   # Environment name
   environmentName: ''
